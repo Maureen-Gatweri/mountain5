@@ -1,0 +1,40 @@
+body {
+    background-image: url('2hike.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 1900px;
+    color: aliceblue;
+    font-size: x-large;
+    
+    
+  }
+  .love{
+    display: flex;
+    padding-left: 30%;
+    align-items: center;
+    size: 30px;
+}
+.navbar{
+    text-decoration: none;
+    font-size: 17px;
+    padding-right: 15px;
+    color: white;
+    display: flex;
+}
+.nav1{
+
+    display: flex;
+ }  
+ h3{
+    color: rgb(218, 187, 111);
+    text-align: left;
+     padding-left: 590px;
+    
+ }
+ .box{
+    text-align: justify left;
+ }
+ h4{
+    text-align: left;
+    padding-left: 590px;
+ }
