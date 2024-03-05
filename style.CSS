@@ -66,3 +66,41 @@ h1{
     font-size: 70px;
     font-family: 'Times New Roman';
 }
+.Hike{
+   
+    display: flex;
+ padding: 150px;
+    margin-top: 5px;
+    background-color:rgb(11,29,38) ;
+    width: 85.5%;
+    color:aliceblue;
+    align-content: left;
+    font-size: 25px;
+    padding-top: 2%;
+    padding-bottom: 14%;
+
+    
+ }
+ .lovelace{
+ margin-right: 40px;
+  padding-right: 150px;
+ align-content: center;
+ padding-left:  900px;
+ margin-top: 200px;
+ padding-left: 200px;
+ 
+ 
+ }
+ .H{
+    color: rgb(251,215,132);
+ }
+ .image{
+    
+    margin: 145px;
+    height: 15px;
+ 
+  
+ }
+ .world{
+    color: rgb(251,215,132) ;
+ }
